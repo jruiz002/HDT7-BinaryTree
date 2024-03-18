@@ -282,3 +282,5 @@
 (scarf, bufanda)
 (scissors, tijeras)
 (seashell, concha)
+(hello, hola)
+(world, mundo)
